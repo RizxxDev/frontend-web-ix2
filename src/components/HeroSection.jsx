@@ -31,7 +31,7 @@ export default function HeroSection() {
             <img 
               alt="Class photo" 
               className="w-full h-full object-cover grayscale-[20%] sepia-[10%] group-hover:scale-105 group-hover:grayscale-0 transition-all duration-700" 
-              src="https://lh3.googleusercontent.com/aida-public/AB6AXuDdS34kbNfeLFIZ0py-SoGoxsiN3p_Ui0A7U8w7zd9c0oKezGHrSTxrH5wgdTgpxFqd6BjCqN746dNmvdnzRTKvEAUrOEKjiGVoI3FycoxBsy3YlQv_rb1GJGRNfozMHmPdZcsD_41Vm5n6cQ1epyWlXf_PM4yCf3fF6HKjI76O5247JmuOPelWKSzQU0QrGkftnmjco2vpbZd568Ko_mYG4KJxIMrrx9yKZWJRbs4ZxgFnRAVMzmBFZLAJO1CdM9cELxSRzfu5XkFV"
+              src="https://ik.imagekit.io/f893bdhuo/WhatsApp%20Image%202026-04-25%20at%2015.51.42.jpeg"
             />
           </div>
           <div className="mt-md text-center">
@@ -39,7 +39,7 @@ export default function HeroSection() {
               "Formasi Lengkap, Sebelum Berpisah."
             </span>
             <span className="font-caption text-caption text-on-surface-variant mt-2 block">
-              Halaman Sekolah, Mei 2021
+              Halaman Sekolah, Mei 2026
             </span>
           </div>
         </div>

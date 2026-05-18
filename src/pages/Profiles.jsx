@@ -4,7 +4,7 @@ import StudentsSection from '../components/profiles/StudentsSection';
 
 export default function Profiles() {
   return (
-    <main className="flex-grow max-w-container-max mx-auto w-full px-md md:px-xl py-xl space-y-xl overflow-hidden">
+    <main className="flex-grow max-w-container-max mx-auto w-full px-4 md:px-xl py-lg md:py-xl space-y-xl overflow-hidden">
       <PageHeader />
       <TeachersSection />
       <StudentsSection />
