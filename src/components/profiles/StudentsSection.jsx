@@ -61,7 +61,7 @@ export default function StudentsSection() {
           <span className="material-symbols-outlined text-secondary text-[32px]">groups</span>
           <h2 className="font-headline-md text-headline-md text-primary">Kawan Seperjuangan</h2>
         </div>
-        <span className="font-label-caps text-label-caps text-on-surface-variant">32 SISWA</span>
+        <span className="font-label-caps text-label-caps text-on-surface-variant">33 SISWA</span>
       </div>
       
       <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-gutter">
