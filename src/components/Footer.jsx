@@ -6,7 +6,7 @@ export default function Footer() {
           © Class of IX-2 • Ever Onward • Est. 2026
         </div>
         <ul className="flex flex-wrap justify-center gap-md font-caption text-caption text-primary">
-          <li><a className="opacity-80 hover:opacity-100 hover:text-secondary transition-opacity" href="#">School Website</a></li>
+          <li><a className="opacity-80 hover:opacity-100 hover:text-secondary transition-opacity" href="https://mtsn3langkat.sch.id/">School Website</a></li>
           <li><a className="opacity-80 hover:opacity-100 hover:text-secondary transition-opacity" href="#">Contact Faculty</a></li>
           <li><a className="opacity-80 hover:opacity-100 hover:text-secondary transition-opacity" href="#">Privacy Policy</a></li>
         </ul>

@@ -5,7 +5,7 @@ export default function WallHeader() {
         The Memory Wall
       </h1>
       <p className="font-subheading-quote text-subheading-quote text-on-surface-variant max-w-2xl mx-auto transform rotate-1">
-        Tinggalkan jejak, cerita lucu, atau salam perpisahan untuk kelas IX-B.
+        Tinggalkan jejak, cerita lucu, atau salam perpisahan untuk kelas IX-2.
       </p>
     </header>
   );

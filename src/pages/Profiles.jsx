@@ -1,6 +1,7 @@
 import PageHeader from '../components/profiles/PageHeader';
 import TeachersSection from '../components/profiles/TeachersSection';
 import StudentsSection from '../components/profiles/StudentsSection';
+import SuperlativesSection from '../components/profiles/SuperlativesSection';
 
 export default function Profiles() {
   return (
@@ -8,6 +9,7 @@ export default function Profiles() {
       <PageHeader />
       <TeachersSection />
       <StudentsSection />
+      <SuperlativesSection />
     </main>
   );
 }
