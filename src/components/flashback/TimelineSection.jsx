@@ -9,7 +9,7 @@ export default function TimelineSection() {
           <span className="absolute -top-sm -left-md bg-secondary/40 washi-tape-edge w-24 h-6 -rotate-6 z-[-1]"></span>
         </h1>
         <p className="font-body-lg text-body-lg text-on-surface-variant max-w-2xl mx-auto mt-sm">
-          Dari awal yang canggung hingga perpisahan yang manis. Ini adalah cerita tiga tahun perjalanan Kelas IX-B.
+          Dari awal yang canggung hingga perpisahan yang manis. Ini adalah cerita tiga tahun perjalanan Kelas IX-2.
         </p>
       </div>
       {/* Timeline Container */}

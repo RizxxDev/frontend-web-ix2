@@ -66,7 +66,7 @@ export default function StudentsSection() {
       
       <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-gutter">
         {studentData.map((student) => (
-          <div key={student.id} className={`polaroid transform ${student.tilt} relative group cursor-pointer overflow-hidden`}>
+          <div key={student.id} className={`polaroid transform ${student.tilt} relative group cursor-pointer`}>
             {/* Tapes / Stickers */}
             {student.tape === 'red' && (
               <div className="absolute -top-3 left-1/2 -translate-x-1/2 w-12 h-4 bg-red-400 opacity-60 transform -rotate-3 z-10"></div>

@@ -19,7 +19,7 @@ export default function BulletinBoard() {
         <div className="bg-postit-pink p-md border-2 border-primary postit-shadow transform -rotate-3 hover:rotate-0 transition-transform cursor-pointer relative mt-8">
           <div className="absolute -top-2 left-1/2 -translate-x-1/2 w-16 h-4 bg-secondary-fixed/50 transform rotate-2 border-x-2 border-dashed border-background"></div>
           <p className="font-subheading-quote text-subheading-quote text-primary mb-md leading-relaxed">
-            "Pak Budi guru paling the best! Terima kasih buat 3 tahun yang luar biasa IX-B. See you on top guys!"
+            "Pak Budi guru paling the best! Terima kasih buat 3 tahun yang luar biasa IX-2. See you on top guys!"
           </p>
           <div className="flex items-center justify-between border-t border-primary/20 pt-sm">
             <span className="font-label-caps text-label-caps text-primary">- Sarah A.</span>

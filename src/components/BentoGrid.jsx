@@ -6,7 +6,7 @@ export default function BentoGrid() {
       {/* Stat 1: Paper Scrap */}
       <div className="bg-surface-container p-lg shadow-[4px_4px_0px_0px_rgba(29,53,87,1)] rotate-[-1deg] border border-outline-variant flex flex-col items-center justify-center text-center hover:translate-y-[-4px] transition-transform">
         <span className="material-symbols-outlined text-[48px] text-primary mb-sm">group</span>
-        <span className="font-display-lg text-display-lg text-primary">32</span>
+        <span className="font-display-lg text-display-lg text-primary">33</span>
         <span className="font-label-caps text-label-caps text-on-surface-variant uppercase tracking-widest mt-2">Siswa/i Tangguh</span>
       </div>
       {/* Quote: Post-it Note */}
