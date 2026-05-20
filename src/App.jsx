@@ -5,6 +5,7 @@ import Profiles from './pages/Profiles';
 import Flashback from './pages/Flashback';
 import Gallery from './pages/Gallery';
 import Wall from './pages/Wall';
+import { Analytics } from "@vercel/analytics/next"
 
 function App() {
   return (
