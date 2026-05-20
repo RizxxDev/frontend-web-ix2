@@ -5,7 +5,7 @@ import Profiles from './pages/Profiles';
 import Flashback from './pages/Flashback';
 import Gallery from './pages/Gallery';
 import Wall from './pages/Wall';
-import { Analytics } from "@vercel/analytics/next"
+import { Analytics } from "@vercel/analytics/react"
 
 function App() {
   return (
@@ -19,6 +19,7 @@ function App() {
           <Route path="wall" element={<Wall />} />
         </Route>
       </Routes>
+      <Analytics />
     </BrowserRouter>
   );
 }
