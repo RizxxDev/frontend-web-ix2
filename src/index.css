@@ -65,4 +65,55 @@
   .postit-shadow {
     box-shadow: 4px 4px 0px 0px rgba(29,53,87,1);
   }
+
+  /* ===== Scroll Reveal Utility ===== */
+  /* Elements start invisible; JS adds .revealed to trigger the animation */
+  .reveal {
+    opacity: 0;
+    transform: translateY(28px);
+    transition: opacity 0.55s ease-out, transform 0.55s ease-out;
+  }
+  .reveal.revealed {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  .reveal-left {
+    opacity: 0;
+    transform: translateX(-28px);
+    transition: opacity 0.55s ease-out, transform 0.55s ease-out;
+  }
+  .reveal-left.revealed {
+    opacity: 1;
+    transform: translateX(0);
+  }
+  .reveal-right {
+    opacity: 0;
+    transform: translateX(28px);
+    transition: opacity 0.55s ease-out, transform 0.55s ease-out;
+  }
+  .reveal-right.revealed {
+    opacity: 1;
+    transform: translateX(0);
+  }
+  .reveal-scale {
+    opacity: 0;
+    transform: scale(0.88);
+    transition: opacity 0.5s ease-out, transform 0.5s cubic-bezier(0.34,1.56,0.64,1);
+  }
+  .reveal-scale.revealed {
+    opacity: 1;
+    transform: scale(1);
+  }
+
+  /* Stagger helpers */
+  .reveal-delay-1 { transition-delay: 0.1s; }
+  .reveal-delay-2 { transition-delay: 0.2s; }
+  .reveal-delay-3 { transition-delay: 0.3s; }
+  .reveal-delay-4 { transition-delay: 0.4s; }
+  .reveal-delay-5 { transition-delay: 0.5s; }
+
+  /* Page fade-in on route change */
+  .page-enter {
+    animation: fadeInUp 0.45s ease-out forwards;
+  }
 }
