@@ -36,7 +36,7 @@ export default function HeroSection() {
             <img
               alt="Class photo"
               className="w-full h-full object-cover grayscale-[20%] sepia-[10%] group-hover:scale-105 group-hover:grayscale-0 transition-all duration-700"
-              src="https://ik.imagekit.io/f893bdhuo/WhatsApp%20Image%202026-04-25%20at%2015.51.42.jpeg"
+              src="https://res.cloudinary.com/dmmdfmdb3/image/upload/q_auto/f_auto/v1779381334/WhatsApp_Image_2026-05-21_at_23.22.51_ng3gu1.jpg"
             />
           </div>
           <div className="mt-md text-center">
@@ -44,7 +44,7 @@ export default function HeroSection() {
               "Formasi Lengkap, Sebelum Berpisah."
             </span>
             <span className="font-caption text-caption text-on-surface-variant mt-2 block">
-              Halaman Sekolah, Mei 2026
+              Halaman Sekolah, 21 Mei 2026
             </span>
           </div>
         </div>
