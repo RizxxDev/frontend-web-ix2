@@ -36,7 +36,7 @@ export default function HeroSection() {
             <img
               alt="Class photo"
               className="w-full h-full object-cover grayscale-[20%] sepia-[10%] group-hover:scale-105 group-hover:grayscale-0 transition-all duration-700"
-              src="https://res.cloudinary.com/dmmdfmdb3/image/upload/q_auto/f_auto/v1779381334/WhatsApp_Image_2026-05-21_at_23.22.51_ng3gu1.jpg"
+              src="https://res.cloudinary.com/dmmdfmdb3/image/upload/q_auto/f_auto/v1779382784/WhatsApp_Image_2026-05-21_at_23.22.51_lc3shi.jpg"
             />
           </div>
           <div className="mt-md text-center">
